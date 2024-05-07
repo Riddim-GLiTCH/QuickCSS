@@ -176,7 +176,7 @@
 /* Reverse the order of extra panels that appear around the user area, this is a fix for the combination of top user area and right-side channels */
 .panels__58331 {
   rotate: 180deg;
-  .container_debb33, .container_e1958d, .spotify-player-container, .container_6sXIoE, .panel_bd8c76  {
+  .container_debb33, .container_e1958d, .spotify-player-container, #vc-spotify-player, .container_6sXIoE, .panel_bd8c76  {
     rotate: 180deg;
   }
 }
